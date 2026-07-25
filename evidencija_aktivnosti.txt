@@ -1,0 +1,31 @@
+24.06.2026 20:47:12---------- Korisnik Admin1 se prijavio na sistem kao administrator
+24.06.2026 20:47:43--------- Korisnik Admin1 se odjavio sa sistema
+24.06.2026 20:48:01---------- Korisnik Ognjen se prijavio na sistem kao administrator
+24.06.2026 20:48:38--------- Korisnik Ognjen se odjavio sa sistema
+25.06.2026 10:03:19---------- Korisnik Nikola se prijavio na sistem kao administrator
+25.06.2026 10:12:35--------- Korisnik Nikola sa id: 10 je uspesno dodao novu publikaciju
+25.06.2026 10:14:25--------- Korisnik Nikola se odjavio sa sistema
+25.06.2026 10:14:36---------- Korisnik Milan_Cabarkapa se prijavio na sistem kao izdavac
+25.06.2026 10:15:30--------- Korisnik Milan_Cabarkapa se odjavio sa sistema
+25.06.2026 10:16:50---------- Korisnik Admin1 se prijavio na sistem kao administrator
+25.06.2026 10:22:05---------- Korisnik Ognjen se prijavio na sistem kao izdavac
+25.06.2026 10:28:11---------- Korisnik Admin1 se prijavio na sistem kao administrator
+25.06.2026 10:29:45---------- Korisnik Admin1 se prijavio na sistem kao administrator
+25.06.2026 10:30:32---------- Korisnik Milan_Cabarkapa se prijavio na sistem kao izdavac
+25.06.2026 10:30:44--------- Korisnik Milan_Cabarkapa se odjavio sa sistema
+
+
+25.06.2026 14:01:47---------- Korisnik Dr_Valerij se prijavio na sistem kao izdavac
+25.06.2026 14:01:59--------- Korisnik Dr_Valerij se odjavio sa sistema
+25.06.2026 14:02:13---------- Korisnik Dr_Valerij se prijavio na sistem kao izdavac
+25.06.2026 14:02:27--------- Korisnik Dr_Valerij se odjavio sa sistema
+25.06.2026 14:02:51---------- Korisnik Ognjen se prijavio na sistem kao izdavac
+25.06.2026 14:03:11--------- Korisnik Ognjen se odjavio sa sistema
+
+28.06.2026 16:46:38---------- Korisnik Ognjen se prijavio na sistem kao izdavac
+28.06.2026 16:47:11--------- Korisnik Ognjen se odjavio sa sistema
+28.06.2026 16:47:52---------- Korisnik Nikola se prijavio na sistem kao administrator
+28.06.2026 16:48:38---------- Korisnik Nikola se prijavio na sistem kao administrator
+28.06.2026 16:48:48--------- Korisnik Nikola se odjavio sa sistema
+29.06.2026 13:08:54---------- Korisnik Nikola se prijavio na sistem kao administrator
+29.06.2026 13:16:50--------- Korisnik Nikola se odjavio sa sistema

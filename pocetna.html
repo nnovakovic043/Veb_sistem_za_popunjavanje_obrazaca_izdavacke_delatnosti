@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pocetna stranica</title>
+    <style>
+        html, body {
+            margin: 0;
+            height: 100%;
+        }
+        body {
+            position: relative;
+        }
+        body::before {      /* koriscenje pseudo elementa before */
+            content: "";
+            position: absolute;
+            background-image: url(knjige.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            inset: 0;
+            opacity: 0.6;
+            z-index: -1;
+        }
+        h1 {
+            text-align: center;
+            background-color: lightblue;
+            color:orangered;
+            font-size: 46px;
+        }
+        div {
+            font-size: 24px;
+        }
+        a {
+            text-decoration: none;
+        }
+        #prijava:hover {
+            background-color: lightblue;
+        }
+        #registracija:hover{
+            background-color: lightsalmon;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dobrodosli na veb sistem za popunjavanje obrazaca izdavacke delatnosti</h1>
+    <br>
+    <br>
+    <div>
+        <p>Da bi ste pristupili veb sistemu neophodno je da se prijavite:</p>
+        <p>
+            <a href="http://localhost//PVA_projekat/login.php" id="prijava">- Prijavite se </a><br>
+            - Nemate nalog? <a href="http://localhost//PVA_projekat/dodavanje_korisnika.php" id="registracija"> Kliknite ovde </a>
+        </p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,131 @@
+#login{
+    background-color: yellow;
+}
+#registracija{
+    background-color: orange;
+}
+#div1, #div2{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: lightskyblue;
+    border: 2px solid blue;
+    font-size: 24px;
+    height: 500px;
+    width: 500px;
+}
+input{
+    width: 200px;
+    height: 25px;
+}
+.radio, #zapamcen{
+    width: auto;
+    height: auto;
+}
+.forme1{
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.submit{
+    text-align: center;
+}
+.submit2{
+    margin-left: 10%;
+}
+#errorMessage, #errorMessage2{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: red;
+}
+label{
+    font-size: 18px;
+}
+#odgovor, #odgovor2{
+    background-color: none;
+    color: none;
+    border: none;
+    position: absolute;
+    padding: 5px;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+}
+.uspesno{
+    background-color:green;
+    color:blue; 
+    border: 1px solid blue;
+}
+#napomena{
+    font-size: 20px;
+}
+.poruke{
+    font-size: 22px;
+}
+.dugme{
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    width: 400px;
+    height: 50px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+.dugme:hover{
+    background-color: lightskyblue;
+    color: black;
+}
+.odjava{
+    background-color: orange;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+}
+.odjava:hover{
+    background-color: darkorange;
+    color:blue;
+}
+.kartica{
+    width: 500px;
+    height: 50px;
+    background-color: lightskyblue;
+    border: 2px solid blue;
+    overflow: hidden;
+}
+.obrasci{
+    margin: 5px;
+}
+.sadrzaj{
+    display:inline-block;
+    margin: 5px;
+}
+#autor, #odjavljivanje, #odjavljivanje2{
+    display: inline-block;
+}
+#odjavljivanje, #odjavljivanje2{
+    margin: 10px;
+}
+.autori{
+    margin:5px;
+}
+.potvrde{
+    font-size: 22px;
+    background-color: none;
+    color: none;
+    border: none;
+    text-align: center;
+}
+#statistika{
+    font-size: 20px;
+    background-color: green;
+    height:50px;
+    width:500px;
+}
